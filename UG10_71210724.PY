@@ -29,3 +29,4 @@ lst3 = [30,29,31,33,19,20,31,21,59]
 print(quickSort(lst0,0,len(lst0)-1))
 print(quickSort(lst1,0,len(lst1)-1))
 print(quickSort(lst2,0,len(lst2)-1))
+print(quickSort(lst3,0,len(lst3)-1))
